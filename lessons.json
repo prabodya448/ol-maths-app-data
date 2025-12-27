@@ -1,0 +1,24 @@
+[
+  {"type": "header", "title": "1 පත්‍රය (Paper 1)"},
+  {"type": "lesson", "title": "(1) භාග", "sub": "භාග සුළු කිරීම", "topic_id": "fractions"},
+  {"type": "lesson", "title": "(2) වර්ගඵලය", "sub": "ත්‍රිකෝණ", "topic_id": "area"},
+  {"type": "lesson", "title": "(3) ප්‍රතිශත", "sub": "බදු", "topic_id": "percent"},
+  {"type": "lesson", "title": "(4) සම්භාවිතාව", "sub": "කොටු දැල", "topic_id": "probability"},
+  {"type": "lesson", "title": "(5) දත්ත නිරූපණය", "sub": "වට ප්‍රස්තාර", "topic_id": "data"},
+
+  {"type": "header", "title": "2 පත්‍රය - A කොටස"},
+  {"type": "lesson", "title": "(1) ප්‍රස්ථාර", "sub": "ශ්‍රිත", "topic_id": "graphs"},
+  {"type": "lesson", "title": "(2) ප්‍රතිශත (II)", "sub": "හීනවන ශේෂ", "topic_id": "percent_2"},
+  {"type": "lesson", "title": "(3) සමගාමී සමීකරණ", "sub": "වීජීය භාග", "topic_id": "equations"},
+  {"type": "lesson", "title": "(4) වර්ගජ සමීකරණ", "sub": "සූත්‍රය", "topic_id": "quadratic"},
+  {"type": "lesson", "title": "(5) සංඛ්‍යාත ව්‍යාප්ති", "sub": "මධ්‍යනය", "topic_id": "statistics"},
+  {"type": "lesson", "title": "(6) ත්‍රිකෝණමිතිය", "sub": "පරිමාණ රූප", "topic_id": "trigonometry"},
+
+  {"type": "header", "title": "2 පත්‍රය - B කොටස"},
+  {"type": "lesson", "title": "(7) ශ්‍රේඪි", "sub": "සමාන්තර හා ගුණෝත්තර", "topic_id": "progression"},
+  {"type": "lesson", "title": "(8) නිර්මාණ", "sub": "පථ, නිර්මාණ", "topic_id": "constructions"},
+  {"type": "lesson", "title": "(9) ත්‍රිකෝණ ප්‍රමේය", "sub": "සාධනය", "topic_id": "geometry_tri"},
+  {"type": "lesson", "title": "(10) වෘත්ත ප්‍රමේය", "sub": "සාධනය", "topic_id": "geometry_circle"},
+  {"type": "lesson", "title": "(11) ඝන වස්තු", "sub": "පරිමාව", "topic_id": "solids"},
+  {"type": "lesson", "title": "(12) කුලක", "sub": "වෙන් රූප", "topic_id": "sets"}
+]
