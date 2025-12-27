@@ -1,0 +1,26 @@
+{
+  "years": ["2019", "2020", "2021", "2022", "2023", "2024", "2025"],
+  "dataMap": {
+    "default": {
+      "fractions": "p1_q1",
+      "area": "p1_q2",
+      "percent": "p1_q3",
+      "probability": "p1_q5",
+      "data": "p1_q6",
+      "graphs": "p2_q1",
+      "percent_2": "p2_q2",
+      "equations": "p2_q3",
+      "quadratic": "p2_q4",
+      "statistics": "p2_q5",
+      "trigonometry": "p2_q6",
+      "progression": "p2_q7",
+      "constructions": "p2_q8",
+      "geometry_tri": "p2_q9",
+      "geometry_circle": "p2_q10",
+      "solids": "p2_q11",
+      "sets": "p2_q12"
+    },
+    "2020": {"probability": "p1_q4"},
+    "2021": {"data": "p1_q5"}
+  }
+}
