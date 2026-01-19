@@ -7,7 +7,6 @@
       "percent": "p1_q3",
       "probability": "p1_q4",
       "data": "p1_q5",
-
       "percent_2": "p2_q1",
       "graphs": "p2_q2",
       "equations": "p2_q3",
@@ -21,55 +20,52 @@
       "sets": "p2_q11",
       "geometry_circle": "p2_q12"
     },
-    "2024": {
-      "data": "p1_q4",
-      "probability": "p1_q5",
-      "equations": "p2_q5",
-      "trigonometry": "p2_q3",
-      "progression": "p2_q8",
-      "constructions": "p2_q9",
-      "geometry_tri": "p2_q10",
-      "solids": "p2_q7",
-      "sets": "p2_q12",
-      "geometry_circle": "p2_q11"
-    },
-    "2023": {
-      "equations": "p2_q5",
-      "trigonometry": "p2_q3",
-      "progression": "p2_q8",
-      "constructions": "p2_q9",
-      "geometry_tri": "p2_q10",
-      "solids": "p2_q7",
-      "sets": "p2_q12",
-      "geometry_circle": "p2_q11"
-    },
-    "2022": {
-      "equations": "p2_q4",
-      "quadratic": "p2_q3",
-      "geometry_tri": "p2_q12",
-      "sets": "p2_q9",
-      "geometry_circle": "p2_q11"
-    },
-    "2021": {
-      "percent_2": "p2_q2",
-      "graphs": "p2_q1",
-      "quadratic": "p2_q6",
-      "statistics": "p2_q4"
-    },
-    "2020": {
-      "equations": "p2_q6",
-      "quadratic": "p2_q10",
-      "trigonometry": "p2_q3",
-      "statistics": "p2_q6",
-      "geometry_tri": "p2_q11",
-      "solids": "p2_q10",
-      "sets": "p2_q9"
-    },
     "2019": {
       "data": "p1_q4",
       "probability": "p1_q5",
-      "solids": "p2_q12",
-      "geometry_circle": "p2_q10"
+      "geometry_circle": "p2_q10",
+      "solids": "p2_q12"
+    },
+    "2020": {
+      "statistics": "p2_q3",
+      "solids": "p2_q4",
+      "equations": "p2_q5",
+      "quadratic": "p2_q6",
+      "sets": "p2_q9",
+      "trigonometry": "p2_q10",
+      "geometry_tri": "p2_q11"
+    },
+    "2021": {
+      "graphs": "p2_q1",
+      "percent_2": "p2_q2",
+      "statistics": "p2_q4",
+      "quadratic": "p2_q6"
+    },
+    "2022": {
+      "quadratic": "p2_q3",
+      "trigonometry": "p2_q4",
+      "equations": "p2_q5",
+      "geometry_circle": "p2_q9",
+      "geometry_tri": "p2_q11",
+      "sets": "p2_q12"
+    },
+    "2023": {
+      "quadratic": "p2_q3",
+      "equations": "p2_q4",
+      "geometry_circle": "p2_q9",
+      "geometry_tri": "p2_q12"
+    },
+    "2024": {
+      "data": "p1_q4",
+      "probability": "p1_q5",
+      "trigonometry": "p2_q3",
+      "equations": "p2_q5",
+      "constructions": "p2_q7",
+      "geometry_tri": "p2_q8",
+      "solids": "p2_q9",
+      "progression": "p2_q10",
+      "geometry_circle": "p2_q11",
+      "sets": "p2_q12"
     }
   }
 }
