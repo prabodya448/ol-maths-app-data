@@ -1,6 +1,6 @@
 [
   {"type": "header", "title": "1 පත්‍රය (Paper 1)"},
-  {"type": "lesson", "title": "(1) භාග‍ය", "sub": "භාග සුළු කිරීම", "topic_id": "fractions"},
+  {"type": "lesson", "title": "(1) භාග‍", "sub": "භාග සුළු කිරීම", "topic_id": "fractions"},
   {"type": "lesson", "title": "(2) වර්ගඵලය හා පරිමිතිය", "sub": "සමචතුරස්‍රය, සෘජුකෝණාස්‍රය ,වෘත්තය, ත්‍රැපීසියම ,ත්‍රිකෝණය", "topic_id": "area"},
   {"type": "lesson", "title": "(3) ප්‍රතිශත", "sub": "කොටස් ,බදු", "topic_id": "percent"},
   {"type": "lesson", "title": "(4) සම්භාවිතාව", "sub": "රුක් සටහන් ,කොටු දැල", "topic_id": "probability"},
