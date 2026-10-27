@@ -5,6 +5,6 @@
   "interstitial_id": "ca-app-pub-9551197153518220/6140041129",
   "show_rewarded": true,
   "rewarded_id": "ca-app-pub-9551197153518220/4791300432",
-  "show_app_open": false,
+  "show_app_open": true,
   "app_open_id": "ca-app-pub-9551197153518220/9760851235"
 }
