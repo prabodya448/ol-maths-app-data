@@ -1,0 +1,37 @@
+{
+  "fractions": {
+    "title": "භාග",
+    "modules": [
+      {
+        "id": "fractions_m1",
+        "title": "(1) භාග හඳුනා ගැනීම හා වර්ගීකරණය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m1.json"
+      },
+      {
+        "id": "fractions_m2",
+        "title": "(2) තුල්‍ය භාග හා භාග සංසන්දනය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m2.json"
+      },
+      {
+        "id": "fractions_m3",
+        "title": "(3) භාග එකතු කිරීම හා අඩු කිරීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m3.json"
+      },
+      {
+        "id": "fractions_m4",
+        "title": "(4) භාග ගුණ කිරීම හා බෙදීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m4.json"
+      },
+      {
+        "id": "fractions_m5",
+        "title": "(5) සංකීර්ණ භාග ගැටලු (O/L මට්ටම)",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m5.json"
+      }
+    ]
+  }
+}
