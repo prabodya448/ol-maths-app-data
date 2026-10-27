@@ -1,9 +1,19 @@
 [
   {
     "type": "step",
-    "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත",
-    "text": "සෘජුකෝණී ත්‍රිකෝණයක θ කෝණයට සාපේක්ෂව පාද 3 නම් කෙරේ:\n\n• කර්ණය (Hypotenuse): සෘජුකෝණයට ඉදිරියෙන් ඇති දිගම පාදය.\n• සම්මුඛ පාදය (Opposite): θ කෝණයට ඉදිරියෙන් ඇති පාදය.\n• බද්ධ පාදය (Adjacent): θ කෝණයට යාබදව ඇති අනෙක් පාදය.\n\nඅනුපාත 3:\n$$\\sin \\theta = \\frac{\\text{සම්මුඛ}}{\\text{කර්ණය}} \\qquad \\cos \\theta = \\frac{\\text{බද්ධ}}{\\text{කර්ණය}} \\qquad \\tan \\theta = \\frac{\\text{සම්මුඛ}}{\\text{බද්ධ}}$$",
-    "math": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}} \\qquad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}} \\qquad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}",
+    "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත (කොටස 1)",
+    "text": "සෘජුකෝණී ත්‍රිකෝණයක θ කෝණයට සාපේක්ෂව පාද 3 නම් කෙරේ:",
+    "math": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}} \\qquad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}} \\qquad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}"
+  },
+  {
+    "type": "step",
+    "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත (කොටස 2)",
+    "text": "• කර්ණය (Hypotenuse): සෘජුකෝණයට ඉදිරියෙන් ඇති දිගම පාදය.\n• සම්මුඛ පාදය (Opposite): θ කෝණයට ඉදිරියෙන් ඇති පාදය.\n• බද්ධ පාදය (Adjacent): θ කෝණයට යාබදව ඇති අනෙක් පාදය."
+  },
+  {
+    "type": "step",
+    "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත (කොටස 3)",
+    "text": "අනුපාත 3:\n$$\\sin \\theta = \\frac{\\text{සම්මුඛ}}{\\text{කර්ණය}} \\qquad \\cos \\theta = \\frac{\\text{බද්ධ}}{\\text{කර්ණය}} \\qquad \\tan \\theta = \\frac{\\text{සම්මුඛ}}{\\text{බද්ධ}}$$",
     "callout": "💡 කෙටි උපක්‍රමය:\nස/ක = sin,  බ/ක = cos,  ස/බ = tan"
   },
   {
