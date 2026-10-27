@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🏠 1. වරිපනම් බදු හා කාර්තු බදු (කොටස 1)",
     "text": "නගර සභා මඟින් නඩත්තු පහසුකම් සඳහා නිවාස හා දේපළ මත අය කරන බද්ද වරිපනම් බද්දයි.",
-    "math": "\\text{කාර්තු බද්ද} = \\frac{\\text{තක්සේරු වටිනාකම} \\times \\text{ප්‍රතිශතය}}{4}"
+    "math": "\\text{Quarterly Tax} = \\frac{\\text{Assessed Value} \\times \\text{Rate } \\%}{4}"
   },
   {
     "type": "step",

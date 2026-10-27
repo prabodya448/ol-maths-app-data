@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🏦 3. සුළු පොලිය හා වැල් පොලිය සැසඳීම",
     "text": "1. සුළු පොලිය (Simple Interest):\nමුල් මුදල (P) මත පමණක් සෑම වසරකම එකම පොලිය ලැබේ.\n$$I = \\frac{Ptr}{100}$$\n(P = මුල් මුදල, t = වසර ගණන, r = වාර්ෂික පොලී ප්‍රතිශතය)",
-    "math": "\\text{සුළු පොලිය: } I = \\frac{Ptr}{100} \\qquad \\text{වැල් පොලිය: වසරින් වසර පොලිය මුදලට එකතු වේ}"
+    "math": "\\text{Simple Interest: } I = \\frac{Ptr}{100} \\qquad (\\text{Compound: Yearly Added})"
   },
   {
     "type": "step",

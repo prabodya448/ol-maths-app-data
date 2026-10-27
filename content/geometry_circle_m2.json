@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🔷 2. චක්‍රීය චතුරස්‍ර ප්‍රමේයයන් භාවිතය (කොටස 1)",
     "text": "ශීර්ෂ හතරම එකම වෘත්තයක පරිධිය මත පිහිටන චතුරස්‍රයක් චක්‍රීය චතුරස්‍රයකි.",
-    "math": "\\hat{A} + \\hat{C} = 180^\\circ \\qquad \\text{බාහිර කෝණය} = \\text{අභ්‍යන්තර සම්මුඛ කෝණය}"
+    "math": "\\hat{A} + \\hat{C} = 180^\\circ \\qquad (\\text{Exterior } \\angle = \\text{Interior Opposite } \\angle)"
   },
   {
     "type": "step",

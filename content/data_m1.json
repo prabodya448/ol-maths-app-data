@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📊 1. ජාල රේඛාව හා සංඛ්‍යාත ඝනත්වය (කොටස 1)",
     "text": "ජාල රේඛාව යනු එකිනෙක ස්පර්ශ වන සෘජුකෝණාස්‍රාකාර තීරු මඟින් දත්ත නිරූපණය කිරීමයි.",
-    "math": "\\text{තීරුවේ උස (ඝනත්වය)} = \\frac{\\text{සංඛ්‍යාතය (f)}}{\\text{ප්‍රාන්තර පළල (w)}}"
+    "math": "\\text{Height (Density)} = \\frac{f}{w} = \\frac{\\text{Frequency}}{\\text{Class Width}}"
   },
   {
     "type": "step",

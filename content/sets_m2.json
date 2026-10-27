@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🔵 2. වෘත්ත 3 ක වෙන් රූපයේ කලාප 8 හඳුනා ගැනීම (කොටස 1)",
     "text": "O/L විභාගයේ 11 වන ප්‍රශ්නය සෑම වසරකම ලැබෙන්නේ වෘත්ත 3 ක වෙන් රූපයකි.",
-    "math": "\\text{මැද කලාපය } (A \\cap B \\cap C) \\longrightarrow \\text{දෙකට පමණක්} \\longrightarrow \\text{එකකට පමණක්} \\longrightarrow \\text{පිටත කලාපය}"
+    "math": "(A \\cap B \\cap C) \\longrightarrow \\text{2-Sets} \\longrightarrow \\text{1-Set} \\longrightarrow \\text{Outside}"
   },
   {
     "type": "step",

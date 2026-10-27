@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🏆 3. මාදිලි පන්තිය හා මුළු අගය තක්සේරු කිරීම",
     "text": "1. මාදිලි පන්තිය (Modal Class):\nවැඩිම සංඛ්‍යාතයක් (f) සහිත පන්ති ප්‍රාන්තරය මාදිලි පන්තියයි.",
-    "math": "\\text{මාදිලි පන්තිය} = \\text{උපරිම } f \\text{ සහිත පන්තිය} \\qquad \\text{මුළු අගය} = \\bar{x} \\times N"
+    "math": "\\text{Modal Class} = \\text{Max } f \\qquad \\text{Total} = \\bar{x} \\times N"
   },
   {
     "type": "step",

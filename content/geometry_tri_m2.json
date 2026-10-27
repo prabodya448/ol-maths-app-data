@@ -3,7 +3,7 @@
     "type": "step",
     "title": "⚖️ 2. මධ්‍ය ලක්ෂ්‍ය ප්‍රමේයය හා විලෝමය",
     "text": "1. මධ්‍ය ලක්ෂ්‍ය ප්‍රමේයය (Midpoint Theorem):\nත්‍රිකෝණයක පාද දෙකක මධ්‍ය ලක්ෂ්‍ය යා කරන සරල රේඛාව, තෙවන පාදයට සමාන්තර වන අතර දිගින් තෙවන පාදයෙන් අඩක් වේ.\n$$XY || BC \\qquad \\text{සහ} \\qquad XY = \\frac{1}{2} BC$$",
-    "math": "X, Y \\text{ මධ්‍ය ලක්ෂ්‍ය නම් } \\implies XY || BC \\quad \\text{සහ} \\quad XY = \\frac{1}{2}BC"
+    "math": "XY \\parallel BC \\qquad XY = \\frac{1}{2}BC"
   },
   {
     "type": "step",

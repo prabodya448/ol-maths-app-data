@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📐 3. සමානුපාතිකතා ප්‍රමේයය හා සමරූපතාව",
     "text": "1. සමානුපාතිකතා ප්‍රමේයය (Thales' Theorem):\nත්‍රිකෝණයක පාදයකට සමාන්තරව අඳින ලද සරල රේඛාවකින් අනෙක් පාද දෙක සමානුපාතිකව බෙදේ:\n$$\\frac{AX}{XB} = \\frac{AY}{YC}$$",
-    "math": "\\text{සමකෝණී } \\implies \\frac{AB}{PQ} = \\frac{BC}{QR} = \\frac{AC}{PR}"
+    "math": "\\text{Equiangular} \\implies \\frac{AB}{PQ} = \\frac{BC}{QR} = \\frac{AC}{PR}"
   },
   {
     "type": "step",

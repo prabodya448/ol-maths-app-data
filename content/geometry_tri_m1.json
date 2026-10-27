@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📐 1. ත්‍රිකෝණ අංගසාම්‍ය අවස්ථා 4 (කොටස 1)",
     "text": "ත්‍රිකෝණ දෙකක ප්‍රමාණය හා හැඩය මුළුමනින්ම සමාන වීම අංගසාම්‍යයයි (≅).",
-    "math": "\\triangle ABC \\equiv \\triangle PQR \\quad (\\text{පා.කෝ.පා / කෝ.කෝ.පා / පා.පා.පා / කර්ණ.පා})"
+    "math": "\\triangle ABC \\equiv \\triangle PQR \\quad (\\text{SAS / AAS / SSS / RHS})"
   },
   {
     "type": "step",

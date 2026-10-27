@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📈 3. ප්‍රස්ථාරයෙන් ප්‍රාන්තර කියවීම හා විස්ථාපනය (කොටස 1)",
     "text": "විභාගයේදී බහුලව අසන කොටස්:",
-    "math": "y > 0 \\implies x \\text{ අක්ෂයට ඉහළ කොටස} \\qquad y = (x - h)^2 + k \\implies \\text{හැරවුම් ලක්ෂ්‍යය } (h, k)"
+    "math": "y = (x - h)^2 + k \\implies \\text{Vertex: } (h, k) \\qquad (y > 0 \\text{ above } x\\text{-axis})"
   },
   {
     "type": "step",

@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🌳 3. රුක් සටහන (Tree Diagram) (කොටස 1)",
     "text": "අදියර දෙකක සිද්ධි සඳහා රුක් සටහන් ප්‍රධාන ආකාර 2 කි:",
-    "math": "P(R_1 \\text{ සහ } R_2) = \\frac{4}{10} \\times \\frac{3}{9} = \\frac{12}{90} = \\frac{2}{15}"
+    "math": "P(R_1 \\text{ and } R_2) = \\frac{4}{10} \\times \\frac{3}{9} = \\frac{12}{90} = \\frac{2}{15}"
   },
   {
     "type": "step",

@@ -3,7 +3,7 @@
     "type": "step",
     "title": "⚽ 2. ගෝල හා අර්ධ ගෝල පරිමාව හා වර්ගඵලය (කොටස 1)",
     "text": "අරය r වන ගෝල සහ අර්ධ ගෝල සූත්‍ර:",
-    "math": "V = \\frac{4}{3}\\pi r^3 \\quad (\\text{ගෝලය}) \\qquad V = \\frac{2}{3}\\pi r^3 \\quad (\\text{අර්ධ ගෝලය})"
+    "math": "V = \\frac{4}{3}\\pi r^3 \\quad (\\text{Sphere}) \\qquad V = \\frac{2}{3}\\pi r^3 \\quad (\\text{Hemisphere})"
   },
   {
     "type": "step",

@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📐 1. කෝණ හා ලම්භ සමච්ඡේදක නිර්මාණය (කොටස 1)",
     "text": "O/L විභාගයේ නිර්මාණ ප්‍රශ්නයට ලකුණු 10 ක් හිමිවේ. කවකටුව සහ සරල දාරය (රූලරය) පමණක් භාවිත කළ යුතුය.",
-    "math": "\\text{ලම්භ සමච්ඡේදකය} \\implies \\text{රේඛාවට ලම්බව දෙකට බෙදයි} \\qquad \\text{කෝණ සමච්ඡේදකය} \\implies \\text{කෝණය දෙකට බෙදයි}"
+    "math": "\\text{Perpendicular Bisector } (\\perp) \\qquad \\text{Angle Bisector } (\\angle)"
   },
   {
     "type": "step",

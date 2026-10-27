@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📈 3. කොටස් වෙළෙඳපොළ ආයෝජනය",
     "text": "සමාගමක කොටස් මිලදී ගැනීම සහ ආදායම් ලැබීම:",
-    "math": "\\text{කොටස් ගණන} = \\frac{\\text{මුළු ආයෝජනය}}{\\text{කොටසක මිල}} \\qquad \\text{ලාභාංශ ආදායම} = \\text{කොටස් ගණන} \\times \\text{කොටසක ලාභාංශය}"
+    "math": "\\text{Shares} = \\frac{\\text{Investment}}{\\text{Share Price}} \\qquad \\text{Dividend} = \\text{Shares} \\times \\text{DPS}"
   },
   {
     "type": "step",

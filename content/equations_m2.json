@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🔄 2. ආදේශ කිරීමේ ක්‍රමය මඟින් විසඳීම (කොටස 1)",
     "text": "එක් සමීකරණයක සංගුණකය 1 වන විට (උදා: y = ... හෝ x = ...) ආදේශ ක්‍රමය ඉතා පහසුය.",
-    "math": "y = x + 3 \\quad \\text{ආදේශය} \\implies 2x + (x + 3) = 12 \\implies 3x = 9 \\implies x = 3"
+    "math": "y = x + 3 \\implies 2x + (x + 3) = 12 \\implies 3x = 9 \\implies x = 3"
   },
   {
     "type": "step",
