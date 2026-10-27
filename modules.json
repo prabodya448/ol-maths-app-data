@@ -4,33 +4,407 @@
     "modules": [
       {
         "id": "fractions_m1",
-        "title": "(1) භාග හඳුනා ගැනීම හා වර්ගීකරණය",
+        "title": "(1) භාග මූලික සංකල්ප, වර්ග හා තුල්‍ය භාග",
         "type": "note",
         "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m1.json"
       },
       {
         "id": "fractions_m2",
-        "title": "(2) තුල්‍ය භාග හා භාග සංසන්දනය",
+        "title": "(2) භාග එකතු කිරීම හා අඩු කිරීම",
         "type": "note",
-        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m2.json"
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m1.json"
       },
       {
         "id": "fractions_m3",
-        "title": "(3) භාග එකතු කිරීම හා අඩු කිරීම",
+        "title": "(3) භාග ගුණ කිරීම හා බෙදීම (පරස්පරය)",
         "type": "note",
         "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m3.json"
       },
       {
         "id": "fractions_m4",
-        "title": "(4) භාග ගුණ කිරීම හා බෙදීම",
+        "title": "(4) BODMAS රීතිය හා 'හි' යෙදීම",
         "type": "note",
-        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m4.json"
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m1.json"
       },
       {
         "id": "fractions_m5",
-        "title": "(5) සංකීර්ණ භාග ගැටලු (O/L මට්ටම)",
+        "title": "(5) O/L විභාග මට්ටමේ ව්‍යවහාරික ගැටලු",
         "type": "note",
-        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m5.json"
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/fractions_m1.json"
+      }
+    ]
+  },
+  "area": {
+    "title": "වර්ගඵලය හා පරිමිතිය",
+    "modules": [
+      {
+        "id": "area_m1",
+        "title": "(1) වර්ගඵලය හා පරිමිතිය මූලික නීති",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/area_m1.json"
+      },
+      {
+        "id": "area_m2",
+        "title": "(2) කේන්ද්‍රික ඛණ්ඩ, චාප දිග හා පරිමිතිය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/area_m1.json"
+      },
+      {
+        "id": "area_m3",
+        "title": "(3) ත්‍රැපීසියම හා සංයුක්ත තල රූප වර්ගඵලය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/area_m1.json"
+      },
+      {
+        "id": "area_m4",
+        "title": "(4) O/L ආදර්ශ විභාග ගැටලු පියවරෙන් පියවර",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/area_m1.json"
+      }
+    ]
+  },
+  "percent": {
+    "title": "ප්‍රතිශත",
+    "modules": [
+      {
+        "id": "percent_m1",
+        "title": "(1) වරිපනම් බදු හා කාර්තු බදු ගණනය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_m1.json"
+      },
+      {
+        "id": "percent_m2",
+        "title": "(2) තීරුබදු හා අතරමැදි කොමිස් මුදල්",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_m1.json"
+      },
+      {
+        "id": "percent_m3",
+        "title": "(3) කොටස් වෙළෙඳපොළ ආයෝජනය හා ලාභාංශ",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_m1.json"
+      }
+    ]
+  },
+  "probability": {
+    "title": "සම්භාවිතාව",
+    "modules": [
+      {
+        "id": "probability_m1",
+        "title": "(1) සම්භාවිතාවේ මූලික නීති හා නියැදි අවකාශය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/probability_m1.json"
+      },
+      {
+        "id": "probability_m2",
+        "title": "(2) කොටු දැල (Grid) මඟින් ගැටලු විසඳීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/probability_m1.json"
+      },
+      {
+        "id": "probability_m3",
+        "title": "(3) රුක් සටහන (ප්‍රතිස්ථාපනය සහිත/රහිත)",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/probability_m1.json"
+      }
+    ]
+  },
+  "data": {
+    "title": "දත්ත නිරූපණය",
+    "modules": [
+      {
+        "id": "data_m1",
+        "title": "(1) ජාල රේඛාව හා සංඛ්‍යාත ඝනත්වය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/data_m1.json"
+      },
+      {
+        "id": "data_m2",
+        "title": "(2) සංඛ්‍යාත බහුඅස්‍රය නිවැරදිව ඇඳීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/data_m1.json"
+      },
+      {
+        "id": "data_m3",
+        "title": "(3) සමුච්චිත සංඛ්‍යාත වක්‍රය හා චතුර්ථක",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/data_m1.json"
+      }
+    ]
+  },
+  "percent_2": {
+    "title": "ප්‍රතිශත (II)",
+    "modules": [
+      {
+        "id": "percent_2_m1",
+        "title": "(1) හීනවන ශේෂ ක්‍රමය හා මාස ඒකක සෙවීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_2_m1.json"
+      },
+      {
+        "id": "percent_2_m2",
+        "title": "(2) මාසික වාරිකය හා මුළු පොලිය ගණනය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_2_m1.json"
+      },
+      {
+        "id": "percent_2_m3",
+        "title": "(3) සුළු පොලිය හා වැල් පොලිය සැසඳීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/percent_2_m1.json"
+      }
+    ]
+  },
+  "graphs": {
+    "title": "ප්‍රස්ථාර",
+    "modules": [
+      {
+        "id": "graphs_m1",
+        "title": "(1) වර්ගජ ශ්‍රිත ප්‍රස්ථාරය හා හැරවුම් ලක්ෂ්‍යය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/graphs_m1.json"
+      },
+      {
+        "id": "graphs_m2",
+        "title": "(2) සමමිතික අක්ෂය හා මූල සෙවීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/graphs_m1.json"
+      },
+      {
+        "id": "graphs_m3",
+        "title": "(3) ප්‍රස්ථාරයෙන් ප්‍රාන්තර (y > 0, y < 0) කියවීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/graphs_m1.json"
+      }
+    ]
+  },
+  "equations": {
+    "title": "සමගාමී සමීකරණ",
+    "modules": [
+      {
+        "id": "equations_m1",
+        "title": "(1) සංගුණක සමාන කර විචල්‍ය ඉවත් කිරීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/equations_m1.json"
+      },
+      {
+        "id": "equations_m2",
+        "title": "(2) ආදේශ කිරීමේ ක්‍රමය මඟින් විසඳීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/equations_m1.json"
+      },
+      {
+        "id": "equations_m3",
+        "title": "(3) O/L ව්‍යවහාරික ගැටලුවලින් සමීකරණ ගොඩනැගීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/equations_m1.json"
+      }
+    ]
+  },
+  "quadratic": {
+    "title": "වර්ගජ සමීකරණ",
+    "modules": [
+      {
+        "id": "quadratic_m1",
+        "title": "(1) සාධක කැඩීම මඟින් වර්ගජ සමීකරණ විසඳීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/quadratic_m1.json"
+      },
+      {
+        "id": "quadratic_m2",
+        "title": "(2) වර්ගජ සූත්‍රය භාවිතය පියවරෙන් පියවර",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/quadratic_m1.json"
+      },
+      {
+        "id": "quadratic_m3",
+        "title": "(3) O/L විභාග මට්ටමේ වර්ගඵල ආශ්‍රිත සමීකරණ",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/quadratic_m1.json"
+      }
+    ]
+  },
+  "trigonometry": {
+    "title": "ත්‍රිකෝණමිතිය",
+    "modules": [
+      {
+        "id": "trigonometry_m1",
+        "title": "(1) sin, cos, tan ත්‍රිකෝණමිතික අනුපාත",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/trigonometry_m1.json"
+      },
+      {
+        "id": "trigonometry_m2",
+        "title": "(2) ආරෝහණ හා අවරෝහණ කෝණ ගැටලු",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/trigonometry_m1.json"
+      },
+      {
+        "id": "trigonometry_m3",
+        "title": "(3) තෙඉලක්කම් දිගාංශ හා ත්‍රිකෝණ වර්ගඵලය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/trigonometry_m1.json"
+      }
+    ]
+  },
+  "statistics": {
+    "title": "සංඛ්‍යාත ව්‍යාප්ති",
+    "modules": [
+      {
+        "id": "statistics_m1",
+        "title": "(1) පන්ති ප්‍රාන්තර හා මධ්‍ය අගය සෙවීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/statistics_m1.json"
+      },
+      {
+        "id": "statistics_m2",
+        "title": "(2) උපකල්පිත මධ්‍යන්‍ය ක්‍රමයෙන් මධ්‍යන්‍යය සෙවීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/statistics_m1.json"
+      },
+      {
+        "id": "statistics_m3",
+        "title": "(3) මාදිලි පන්තිය හා O/L විභාග ප්‍රශ්න",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/statistics_m1.json"
+      }
+    ]
+  },
+  "progression": {
+    "title": "ශ්‍රේඪි",
+    "modules": [
+      {
+        "id": "progression_m1",
+        "title": "(1) සමාන්තර ශ්‍රේඪි Tn හා Sn සූත්‍ර භාවිතය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/progression_m1.json"
+      },
+      {
+        "id": "progression_m2",
+        "title": "(2) ගුණෝත්තර ශ්‍රේඪි Tn හා Sn සූත්‍ර භාවිතය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/progression_m1.json"
+      },
+      {
+        "id": "progression_m3",
+        "title": "(3) O/L ව්‍යවහාරික ගැටලු පියවරෙන් පියවර",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/progression_m1.json"
+      }
+    ]
+  },
+  "constructions": {
+    "title": "නිර්මාණ",
+    "modules": [
+      {
+        "id": "constructions_m1",
+        "title": "(1) කෝණ හා ලම්භ සමච්ඡේදක නිර්මාණය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/constructions_m1.json"
+      },
+      {
+        "id": "constructions_m2",
+        "title": "(2) සම්මත කෝණ (60°, 90°, 45°) නිර්මාණය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/constructions_m1.json"
+      },
+      {
+        "id": "constructions_m3",
+        "title": "(3) පරිවෘත්තය හා අන්තර්වෘත්තය නිර්මාණය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/constructions_m1.json"
+      }
+    ]
+  },
+  "geometry_tri": {
+    "title": "ත්‍රිකෝණ ආශ්‍රිත සාධනය",
+    "modules": [
+      {
+        "id": "geometry_tri_m1",
+        "title": "(1) ත්‍රිකෝණ අංගසාම්‍ය අවස්ථා 4 භාවිතය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_tri_m1.json"
+      },
+      {
+        "id": "geometry_tri_m2",
+        "title": "(2) මධ්‍ය ලක්ෂ්‍ය ප්‍රමේයය හා එහි විලෝමය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_tri_m1.json"
+      },
+      {
+        "id": "geometry_tri_m3",
+        "title": "(3) සමානුපාතිකතා ප්‍රමේයය හා සමරූපතාව",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_tri_m1.json"
+      }
+    ]
+  },
+  "solids": {
+    "title": "ඝන වස්තු",
+    "modules": [
+      {
+        "id": "solids_m1",
+        "title": "(1) ප්‍රිස්ම, සිලින්ඩර හා කේතු පරිමා සූත්‍ර",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/solids_m1.json"
+      },
+      {
+        "id": "solids_m2",
+        "title": "(2) ගෝල හා අර්ධ ගෝල පරිමාව හා වර්ගඵලය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/solids_m1.json"
+      },
+      {
+        "id": "solids_m3",
+        "title": "(3) පරිමාව සංරක්ෂණය හා ලඝුගණක භාවිතය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/solids_m1.json"
+      }
+    ]
+  },
+  "sets": {
+    "title": "කුලක",
+    "modules": [
+      {
+        "id": "sets_m1",
+        "title": "(1) කුලක අංකනය හා වෘත්ත 2 ක වෙන් රූප",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/sets_m1.json"
+      },
+      {
+        "id": "sets_m2",
+        "title": "(2) වෘත්ත 3 ක වෙන් රූපයේ කලාප 8 හඳුනා ගැනීම",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/sets_m1.json"
+      },
+      {
+        "id": "sets_m3",
+        "title": "(3) O/L විභාග මට්ටමේ සංකීර්ණ කුලක ගැටලු",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/sets_m1.json"
+      }
+    ]
+  },
+  "geometry_circle": {
+    "title": "වෘත්ත ආශ්‍රිත සාධනය",
+    "modules": [
+      {
+        "id": "geometry_circle_m1",
+        "title": "(1) ජ්‍යාය, කේන්ද්‍රික කෝණය හා පරිධියේ කෝණ",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_circle_m1.json"
+      },
+      {
+        "id": "geometry_circle_m2",
+        "title": "(2) චක්‍රීය චතුරස්‍ර ප්‍රමේයයන් භාවිතය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_circle_m1.json"
+      },
+      {
+        "id": "geometry_circle_m3",
+        "title": "(3) වෘත්ත ස්පර්ශක හා ඒකාන්තර ඛණ්ඩ ප්‍රමේයය",
+        "type": "note",
+        "content_url": "https://raw.githubusercontent.com/prabodya448/ol-maths-app-data/main/content/geometry_circle_m1.json"
       }
     ]
   }
