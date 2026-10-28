@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🏆 3. O/L විභාග මට්ටමේ සංකීර්ණ කුලක ගැටලු (කොටස 1)",
     "text": "O/L විභාග ප්‍රශ්න පියවරෙන් පියවර විසඳීම:",
-    "math": "\\sum (\\text{8 Regions}) = n(\\mathcal{E})"
+    "math": "n(A \\cup B \\cup C) \\leq n(\\mathcal{E})"
   },
   {
     "type": "step",

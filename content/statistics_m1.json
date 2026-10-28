@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📊 1. පන්ති ප්‍රාන්තර හා මධ්‍ය අගය සෙවීම (කොටස 1)",
     "text": "සමූහිත දත්ත ව්‍යාප්තියක මූලික පියවර:",
-    "math": "x = \\frac{\\text{Lower} + \\text{Upper}}{2} \\qquad \\bar{x} = \\frac{\\sum fx}{\\sum f}"
+    "math": "x = \\frac{x_1 + x_2}{2} \\qquad \\bar{x} = \\frac{\\sum fx}{\\sum f}"
   },
   {
     "type": "step",

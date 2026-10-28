@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📉 3. සමුච්චිත සංඛ්‍යාත වක්‍රය හා චතුර්ථක (කොටස 1)",
     "text": "සමුච්චිත සංඛ්‍යාත වක්‍රය (Ogive) ඇඳීම සහ අගයන් කියවීම:",
-    "math": "Q_1 = \\frac{N}{4} \\qquad Q_2 = \\frac{N}{2} \\qquad Q_3 = \\frac{3N}{4} \\qquad \\text{IQR} = Q_3 - Q_1"
+    "math": "Q_1 = \\frac{N}{4} \\qquad Q_2 = \\frac{N}{2} \\qquad Q_3 = \\frac{3N}{4} \\qquad (Q_3 - Q_1)"
   },
   {
     "type": "step",

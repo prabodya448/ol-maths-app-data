@@ -3,7 +3,7 @@
     "type": "step",
     "title": "✨ 3. වෘත්ත ස්පර්ශක හා ඒකාන්තර ඛණ්ඩ ප්‍රමේයය (කොටස 1)",
     "text": "වෘත්ත ස්පර්ශක ආශ්‍රිත ප්‍රමේය 3:",
-    "math": "\\text{Radius } \\perp \\text{ Tangent} = 90^\\circ \\qquad (\\text{Alternate Segment Theorem})"
+    "math": "r \\perp t \\implies 90^\\circ \\qquad (\\theta_1 = \\theta_2)"
   },
   {
     "type": "step",

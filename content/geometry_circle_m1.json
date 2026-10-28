@@ -3,7 +3,7 @@
     "type": "step",
     "title": "⭕ 1. ජ්‍යාය, කේන්ද්‍රික කෝණය හා පරිධියේ කෝණ (කොටස 1)",
     "text": "වෘත්ත ජ්‍යාමිතියේ මූලික ප්‍රමේය 4:",
-    "math": "\\angle\\text{Center} = 2 \\times \\angle\\text{Circumference} \\qquad (\\text{Semicircle } \\angle = 90^\\circ)"
+    "math": "A\\hat{O}B = 2 \\times A\\hat{C}B \\qquad (90^\\circ)"
   },
   {
     "type": "step",

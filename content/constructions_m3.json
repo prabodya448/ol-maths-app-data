@@ -3,7 +3,7 @@
     "type": "step",
     "title": "⭕ 3. පරිවෘත්තය හා අන්තර්වෘත්තය නිර්මාණය",
     "text": "1. පරිවෘත්තය (Circumcircle):\nත්‍රිකෝණයේ ශීර්ෂ 3 හරහා පිටතින් යන වෘත්තයයි.\n• කේන්ද්‍රය සොයන හැටි: ඕනෑම පාද දෙකක 'ලම්භ සමච්ඡේදක' දෙක ඡේදනය වන ලක්ෂ්‍යය (O) කේන්ද්‍රය වේ.\n• අරය: කේන්ද්‍රයේ (O) සිට ඕනෑම ශීර්ෂයකට (A, B හෝ C) ඇති දුර.",
-    "math": "\\text{Circumcircle} \\rightarrow \\text{Sides} \\qquad \\text{Incircle} \\rightarrow \\text{Angles}"
+    "math": "r \\qquad R"
   },
   {
     "type": "step",

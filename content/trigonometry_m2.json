@@ -3,7 +3,7 @@
     "type": "step",
     "title": "🔭 2. ආරෝහණ හා අවරෝහණ කෝණ ගැටලු (කොටස 1)",
     "text": "1. ආරෝහණ කෝණය (Angle of Elevation):\nනිරීක්ෂකයාගේ තිරස් ඇස් මට්ටමට වඩා ඉහළින් ඇති වස්තුවක් දෙස බැලීමේදී තිරස සමඟ සාදන කෝණයයි.",
-    "math": "\\tan \\theta = \\frac{h}{d} \\implies h = d \\tan \\theta \\qquad (\\text{Elevation } = \\text{Depression})"
+    "math": "\\tan \\theta = \\frac{h}{d} \\implies h = d \\tan \\theta"
   },
   {
     "type": "step",

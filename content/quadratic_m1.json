@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📐 1. සාධක කැඩීම මඟින් වර්ගජ සමීකරණ විසඳීම (කොටස 1)",
     "text": "වර්ගජ සමීකරණයක සම්මත ආකාරය: ax² + bx + c = 0",
-    "math": "x^2 - 5x + 6 = 0 \\implies (x - 2)(x - 3) = 0 \\implies x = 2 \\text{ or } x = 3"
+    "math": "x^2 - 5x + 6 = 0 \\implies (x - 2)(x - 3) = 0 \\implies x = 2, \\; 3"
   },
   {
     "type": "step",

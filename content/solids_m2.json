@@ -3,7 +3,7 @@
     "type": "step",
     "title": "⚽ 2. ගෝල හා අර්ධ ගෝල පරිමාව හා වර්ගඵලය (කොටස 1)",
     "text": "අරය r වන ගෝල සහ අර්ධ ගෝල සූත්‍ර:",
-    "math": "V = \\frac{4}{3}\\pi r^3 \\quad (\\text{Sphere}) \\qquad V = \\frac{2}{3}\\pi r^3 \\quad (\\text{Hemisphere})"
+    "math": "V = \\frac{4}{3}\\pi r^3 \\qquad V = \\frac{2}{3}\\pi r^3"
   },
   {
     "type": "step",
@@ -22,19 +22,19 @@
     "question": "ගෝලයක පරිමාව සෙවීමේ නිවැරදි සූත්‍රය කුමක්ද?",
     "options": [
       {
-        "label": "4/3 πr²"
+        "label": "$\\frac{4}{3}$ πr²"
       },
       {
-        "label": "4/3 πr³"
+        "label": "$\\frac{4}{3}$ πr³"
       },
       {
-        "label": "2/3 πr³"
+        "label": "$\\frac{2}{3}$ πr³"
       },
       {
         "label": "4πr²"
       }
     ],
     "correct_index": 1,
-    "explanation": "හරියටම හරි! 🎉 ගෝලයේ පරිමාව = 4/3 πr³ වේ."
+    "explanation": "හරියටම හරි! 🎉 ගෝලයේ පරිමාව = $\\frac{4}{3}$ πr³ වේ."
   }
 ]

@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත (කොටස 1)",
     "text": "සෘජුකෝණී ත්‍රිකෝණයක θ කෝණයට සාපේක්ෂව පාද 3 නම් කෙරේ:",
-    "math": "\\sin \\theta = \\frac{\\text{Opp}}{\\text{Hyp}} \\qquad \\cos \\theta = \\frac{\\text{Adj}}{\\text{Hyp}} \\qquad \\tan \\theta = \\frac{\\text{Opp}}{\\text{Adj}}"
+    "math": "\\sin \\theta = \\frac{a}{c} \\qquad \\cos \\theta = \\frac{b}{c} \\qquad \\tan \\theta = \\frac{a}{b}"
   },
   {
     "type": "step",
@@ -22,19 +22,19 @@
     "question": "සෘජුකෝණී ත්‍රිකෝණයක සම්මුඛ පාදය 6 cm ද බද්ධ පාදය 8 cm ද කර්ණය 10 cm ද නම්, cos θ හි අගය කීයද?",
     "options": [
       {
-        "label": "6/10 = 0.6"
+        "label": "$\\frac{6}{10}$ = 0.6"
       },
       {
-        "label": "8/10 = 0.8"
+        "label": "$\\frac{8}{10}$ = 0.8"
       },
       {
-        "label": "6/8 = 0.75"
+        "label": "$\\frac{6}{8}$ = 0.75"
       },
       {
-        "label": "8/6"
+        "label": "$\\frac{8}{6}$"
       }
     ],
     "correct_index": 1,
-    "explanation": "නිවැරදියි! 🎉 cos θ = බද්ධ / කර්ණය = 8/10 = 0.8 වේ."
+    "explanation": "නිවැරදියි! 🎉 cos θ = බද්ධ / කර්ණය = $\\frac{8}{10}$ = 0.8 වේ."
   }
 ]

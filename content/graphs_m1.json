@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📉 1. වර්ගජ ශ්‍රිත ප්‍රස්ථාරය හා හැරවුම් ලක්ෂ්‍යය (කොටස 1)",
     "text": "සාමාන්‍යයෙන් O/L විභාගයේදී ලැබෙන්නේ y = ax² + bx + c ආකාරයේ වර්ගජ ශ්‍රිතයක ප්‍රස්ථාරයකි.",
-    "math": "y = ax^2 + bx + c \\qquad (a > 0 \\implies \\text{Min}, \\quad a < 0 \\implies \\text{Max})"
+    "math": "y = ax^2 + bx + c \\qquad (a > 0, \\quad a < 0)"
   },
   {
     "type": "step",

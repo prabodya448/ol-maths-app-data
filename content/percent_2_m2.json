@@ -3,7 +3,7 @@
     "type": "step",
     "title": "💰 2. මුළු පොලිය හා මාසික වාරිකය ගණනය (කොටස 1)",
     "text": "මාස ඒකක භාවිතයෙන් පොලිය හා වාරිකය ගණනය කිරීමේ පියවර:",
-    "math": "\\text{Total Interest} = \\text{Units} \\times \\text{Unit Interest} \\qquad \\text{Installment} = \\frac{\\text{Loan} + \\text{Interest}}{n}"
+    "math": "I = N \\times i \\qquad \\frac{L + I}{n}"
   },
   {
     "type": "step",

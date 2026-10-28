@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📈 2. සංඛ්‍යාත බහුඅස්‍රය නිවැරදිව ඇඳීම",
     "text": "ජාල රේඛාව ඇසුරෙන් සංඛ්‍යාත බහුඅස්‍රය නිර්මාණය කිරීම:",
-    "math": "\\text{Area of Histogram} = \\text{Area of Frequency Polygon}"
+    "math": "A_1 = A_2"
   },
   {
     "type": "step",

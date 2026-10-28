@@ -3,7 +3,7 @@
     "type": "step",
     "title": "📊 2. කොටු දැල (Grid) මඟින් ගැටලු විසඳීම (කොටස 1)",
     "text": "ස්වාධීන සිද්ධි දෙකක ප්‍රතිඵල සංසන්දනය කිරීමට කොටු දැලක් (Grid) භාවිතා වේ.",
-    "math": "P(A) = \\frac{n(A)}{n(S)} = \\frac{\\text{Outcomes in } A}{\\text{Total Grid Points}}"
+    "math": "P(A) = \\frac{n(A)}{n(S)}"
   },
   {
     "type": "step",
