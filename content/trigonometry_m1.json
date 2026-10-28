@@ -13,7 +13,7 @@
   {
     "type": "step",
     "title": "📐 1. sin, cos, tan ත්‍රිකෝණමිතික අනුපාත (කොටස 3)",
-    "text": "අනුපාත 3:\n$$\\sin \\theta = \\frac{\\text{සම්මුඛ}}{\\text{කර්ණය}} \\qquad \\cos \\theta = \\frac{\\text{බද්ධ}}{\\text{කර්ණය}} \\qquad \\tan \\theta = \\frac{\\text{සම්මුඛ}}{\\text{බද්ධ}}$$",
+    "text": "අනුපාත 3:\n$\\sin \\theta = \\frac{a}{c} \\qquad \\cos \\theta = \\frac{b}{c} \\qquad \\tan \\theta = \\frac{a}{b}$",
     "callout": "💡 කෙටි උපක්‍රමය:\nස/ක = sin,  බ/ක = cos,  ස/බ = tan"
   },
   {

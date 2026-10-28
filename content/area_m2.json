@@ -8,12 +8,12 @@
   {
     "type": "step",
     "title": "⭕ 2. කේන්ද්‍රික ඛණ්ඩ හා චාප දිග (කොටස 2)",
-    "text": "1. චාප දිග (s):\n$$s = \\frac{\\theta}{360^\\circ} \\times 2\\pi r$$"
+    "text": "1. චාප දිග (s):\n$s = \\frac{\\theta}{360^\\circ} \\times 2\\pi r$"
   },
   {
     "type": "step",
     "title": "⭕ 2. කේන්ද්‍රික ඛණ්ඩ හා චාප දිග (කොටස 3)",
-    "text": "2. වර්ගඵලය (A):\n$$A = \\frac{\\theta}{360^\\circ} \\times \\pi r^2$$"
+    "text": "2. වර්ගඵලය (A):\n$A = \\frac{\\theta}{360^\\circ} \\times \\pi r^2$"
   },
   {
     "type": "step",
